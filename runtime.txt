@@ -1,0 +1,12 @@
+Size: 32, FFT Mean Time: 0.003419 seconds, FFT Std Dev: 0.000445 seconds
+Size: 32, Naive DFT Mean Time: 0.003676 seconds, Naive DFT Std Dev: 0.000398 seconds
+Size: 64, FFT Mean Time: 0.014830 seconds, FFT Std Dev: 0.000514 seconds
+Size: 64, Naive DFT Mean Time: 0.031281 seconds, Naive DFT Std Dev: 0.000711 seconds
+Size: 128, FFT Mean Time: 0.061991 seconds, FFT Std Dev: 0.001038 seconds
+Size: 128, Naive DFT Mean Time: 0.206842 seconds, Naive DFT Std Dev: 0.001441 seconds
+Size: 256, FFT Mean Time: 0.255363 seconds, FFT Std Dev: 0.000794 seconds
+Size: 256, Naive DFT Mean Time: 1.724409 seconds, Naive DFT Std Dev: 0.008710 seconds
+Size: 512, FFT Mean Time: 1.048094 seconds, FFT Std Dev: 0.006517 seconds
+Size: 512, Naive DFT Mean Time: 12.935544 seconds, Naive DFT Std Dev: 0.125471 seconds
+Size: 1024, FFT Mean Time: 4.931190 seconds, FFT Std Dev: 0.600440 seconds
+Size: 1024, Naive DFT Mean Time: 140.487100 seconds, Naive DFT Std Dev: 19.851937 seconds
